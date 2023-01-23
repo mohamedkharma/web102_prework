@@ -20,6 +20,7 @@ The following **optional** features are implemented:
 * [X] Added a simple hover effect for the buttons in the CSS file.
 
 ## Video Walkthrough
+<img src="app_demo.gif" width=550>
 
 Here's a walkthrough of implemented features:
 
